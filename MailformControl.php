@@ -2,9 +2,7 @@
 
 use \Nette\Application\UI\Control,
     \Nette\Application\UI\Form,
-    \Nette\Mail\Message,
-    \Nette\ComponentModel\IContainer,
-    \Nette\ComponentModel\IComponent;
+    \Nette\Mail\Message;
 
 
 /**
